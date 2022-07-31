@@ -44,7 +44,6 @@ Tecnologias utilizadas;
         7. Contato 
     </a>
 </div>
-<hr>
 <div id="desc">
     <h2>
         Descrição do Projeto
@@ -60,7 +59,6 @@ Tecnologias utilizadas;
         - Estilização de Páginas Web
     </p>
 </div>
-<hr>
 <div id="stats">
     <h2>
         Status do Projeto
@@ -69,7 +67,6 @@ Tecnologias utilizadas;
         :warning: Em Construção :warning:
     </p>
 </div>
-<hr>
 <div id="func">
     <h2>
         Funcionalidades Implementadas
@@ -78,7 +75,6 @@ Tecnologias utilizadas;
         Loading...
     </p>
 </div>
-<hr>
 <div id="demo">
     <h2>
         Demonstrações
@@ -87,7 +83,6 @@ Tecnologias utilizadas;
         Loading...
     </p>
 </div>
-<hr>
 <div id="tech">
     <h2>
         Tecnologias Usadas
@@ -100,7 +95,6 @@ Tecnologias utilizadas;
         - Programação(JavaScript)
     </p>
 </div>
-<hr>
 <div id="acess">
     <h2>
         Acesso ao Site
@@ -111,7 +105,6 @@ Tecnologias utilizadas;
         </a>
     </p>
 </div>
-<hr>
 <div id="contact">
     <h2>
         Contatos
