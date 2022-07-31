@@ -66,7 +66,7 @@ Tecnologias utilizadas;
         Status do Projeto
     </h2>
     <p align="justify">
-        :alert: Em Construção :alert:
+        :warning: Em Construção :warning:
     </p>
 </div>
 <hr>
