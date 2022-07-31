@@ -66,7 +66,7 @@ Tecnologias utilizadas;
         Status do Projeto
     </h2>
     <p align="justify">
-        Presente Status do Projeto: Em Construção...
+        :alert: Em Construção :alert:
     </p>
 </div>
 <hr>
@@ -93,11 +93,11 @@ Tecnologias utilizadas;
         Tecnologias Usadas
     </h2>
     <p align="justify">
-        Linguagens de Marcação(HTML)
+        - Linguagens de Marcação(HTML)
         <br>
-        Estilização(CSS)
+        - Estilização(CSS)
         <br>
-        Programação(JavaScript)
+        - Programação(JavaScript)
     </p>
 </div>
 <hr>
@@ -106,7 +106,9 @@ Tecnologias utilizadas;
         Acesso ao Site
     </h2>
     <p align="justify">
-        Loading...
+        <a href="https://paulomaprado.github.io">
+            Link do Portfólio
+        </a>
     </p>
 </div>
 <hr>
@@ -115,6 +117,18 @@ Tecnologias utilizadas;
         Contatos
     </h2>
     <p align="justify">
-        Loading...
+        Entre em contato comigo via:
+        <br>
+        <a href="mailto: paulopradodev@gmail.com">
+            Email
+        </a>
+        <br>
+        <a href="https://www.instagram.com/pauloprado.dev/">
+            Instagram
+        </a>
+        <br>
+        <a href="https://www.linkedin.com/in/paulo-prado-25062004/">
+            LinkedIn
+        </a>
     </p>
 </div>
