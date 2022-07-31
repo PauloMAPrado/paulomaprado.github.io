@@ -46,6 +46,9 @@ Tecnologias utilizadas;
 </div>
 <hr>
 <div id="desc">
+    <h2>
+        Descrição do Projeto
+    </h2>
     <p align="justify">
         O presente projeto/site tem por objetivo principal a demonstração e verificação de aprendizagem ocorrida durante o Ensino Médio, colocando em prática conteúdos como:
         <br>
@@ -59,36 +62,58 @@ Tecnologias utilizadas;
 </div>
 <hr>
 <div id="stats">
+    <h2>
+        Status do Projeto
+    </h2>
     <p align="justify">
         Presente Status do Projeto: Em Construção...
     </p>
 </div>
 <hr>
 <div id="func">
+    <h2>
+        Funcionalidades Implementadas
+    </h2>
     <p align="justify">
         Loading...
     </p>
 </div>
 <hr>
 <div id="demo">
+    <h2>
+        Demonstrações
+    </h2>
     <p align="justify">
         Loading...
     </p>
 </div>
 <hr>
 <div id="tech">
+    <h2>
+        Tecnologias Usadas
+    </h2>
     <p align="justify">
-        Loading...
+        Linguagens de Marcação(HTML)
+        <br>
+        Estilização(CSS)
+        <br>
+        Programação(JavaScript)
     </p>
 </div>
 <hr>
 <div id="acess">
+    <h2>
+        Acesso ao Site
+    </h2>
     <p align="justify">
         Loading...
     </p>
 </div>
 <hr>
 <div id="contact">
+    <h2>
+        Contatos
+    </h2>
     <p align="justify">
         Loading...
     </p>
