@@ -14,7 +14,7 @@ Tecnologias utilizadas;
 
 <div>
     <h2>
-        Índice
+        >> Índice
     </h2>
     <a href="#desc">
         1. Descrição do Projeto
@@ -46,7 +46,7 @@ Tecnologias utilizadas;
 </div>
 <div id="desc">
     <h2>
-        Descrição do Projeto
+        >> Descrição do Projeto
     </h2>
     <p align="justify">
         O presente projeto/site tem por objetivo principal a demonstração e verificação de aprendizagem ocorrida durante o Ensino Médio, colocando em prática conteúdos como:
@@ -61,7 +61,7 @@ Tecnologias utilizadas;
 </div>
 <div id="stats">
     <h2>
-        Status do Projeto
+        >> Status do Projeto
     </h2>
     <p align="justify">
         :warning: Em Construção :warning:
@@ -69,7 +69,7 @@ Tecnologias utilizadas;
 </div>
 <div id="func">
     <h2>
-        Funcionalidades Implementadas
+        >> Funcionalidades Implementadas
     </h2>
     <p align="justify">
         Loading...
@@ -77,7 +77,7 @@ Tecnologias utilizadas;
 </div>
 <div id="demo">
     <h2>
-        Demonstrações
+        >> Demonstrações
     </h2>
     <p align="justify">
         Loading...
@@ -85,7 +85,7 @@ Tecnologias utilizadas;
 </div>
 <div id="tech">
     <h2>
-        Tecnologias Usadas
+        >> Tecnologias Usadas
     </h2>
     <p align="justify">
         - Linguagens de Marcação(HTML)
@@ -97,7 +97,7 @@ Tecnologias utilizadas;
 </div>
 <div id="acess">
     <h2>
-        Acesso ao Site
+        >> Acesso ao Site
     </h2>
     <p align="justify">
         <a href="https://paulomaprado.github.io">
@@ -107,7 +107,7 @@ Tecnologias utilizadas;
 </div>
 <div id="contact">
     <h2>
-        Contatos
+        >> Contatos
     </h2>
     <p align="justify">
         Entre em contato comigo via:
