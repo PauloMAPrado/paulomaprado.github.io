@@ -40,6 +40,6 @@ body{
 .products a:hover,
 .about a:hover,
 .title a:hover{
-    color:#23005b;
+    color:#6200ff;
     transition: .3s;
 }
