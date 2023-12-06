@@ -13,11 +13,11 @@ body{
     background: #D9D9D9;
     color: black;
     text-decoration: none;
-    padding: 10px 30px;
-    margin: 30px 50px;
+    padding: 10px 30px !important;
+    margin: 30px auto;
     border-radius: 19px;
-    height: 3vh;
-    width: 90vw;
+    height: 5vh !important;
+    width: 95vw;
     align-items: center;
     justify-content: space-between;
 }
@@ -42,4 +42,9 @@ body{
 .title a:hover{
     color:#6200ff;
     transition: .3s;
+}
+
+.select{
+    color:#3d1779 !important;
+    text-decoration: underline 2px!important;
 }
