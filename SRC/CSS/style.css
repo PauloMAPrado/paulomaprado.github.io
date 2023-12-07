@@ -10,16 +10,15 @@ body{
 
 .menu{
     display: flex;
-    background: #D9D9D9;
+    background: rgba(217, 217, 217, 0.50);
     color: black;
     text-decoration: none;
     padding: 10px 30px !important;
-    margin: 30px auto;
-    border-radius: 19px;
-    height: 5vh !important;
-    width: 95vw;
+    height: 7vh !important;
     align-items: center;
     justify-content: space-between;
+    backdrop-filter: blur( 13.5px );
+    -webkit-backdrop-filter: blur( 13.5px );
 }
 
 .links{
@@ -28,7 +27,8 @@ body{
 
 .products a,
 .about a,
-.title a{
+.title a,
+.login a{
     text-decoration: none;
     color: black;
     margin: 0px 15px;
@@ -39,12 +39,12 @@ body{
 
 .products a:hover,
 .about a:hover,
-.title a:hover{
-    color:#6200ff;
+.title a:hover,
+.login a:hover{
+    color:#ffffff;
     transition: .3s;
 }
 
 .select{
-    color:#3d1779 !important;
-    text-decoration: underline 2px!important;
+    text-decoration: underline !important;
 }
